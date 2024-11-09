@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Naita" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+    <style name="Theme.Naita" parent="Base.Theme.Naita" />
+
+
+    <style name="BottomNavigationViewTextStyleSelected">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="BottomNavigationViewTextStyleUnSelected">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+</resources>

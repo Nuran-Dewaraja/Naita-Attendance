@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989149995382",
+    "project_id": "naita-3c9d9",
+    "storage_bucket": "naita-3c9d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989149995382:android:4dff50000bbf019e97da57",
+        "android_client_info": {
+          "package_name": "com.chiwick.naita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64NjLksXnsafBwwwHZV4Bm_QHMUeg0_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
